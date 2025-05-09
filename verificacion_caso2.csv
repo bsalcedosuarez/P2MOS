@@ -1,0 +1,190 @@
+Vehiculo,Tipo,Origen,Destino,Valor
+1,Ruta (x),1,15,1
+1,Ruta (x),3,6,1
+1,Ruta (x),4,3,1
+1,Ruta (x),6,7,1
+1,Ruta (x),7,13,1
+1,Ruta (x),10,12,1
+1,Ruta (x),12,4,1
+1,Ruta (x),13,1,1
+1,Ruta (x),15,10,1
+2,Ruta (x),1,5,1
+2,Ruta (x),3,8,1
+2,Ruta (x),5,3,1
+2,Ruta (x),8,11,1
+2,Ruta (x),11,1,1
+3,Ruta (x),1,15,1
+3,Ruta (x),2,13,1
+3,Ruta (x),13,1,1
+3,Ruta (x),14,2,1
+3,Ruta (x),15,14,1
+4,Ruta (x),1,9,1
+4,Ruta (x),9,13,1
+4,Ruta (x),13,1,1
+1,Entrega (delivered),,3,4.0
+1,Entrega (delivered),,4,22.0
+1,Entrega (delivered),,6,15.0
+1,Entrega (delivered),,7,17.0
+1,Entrega (delivered),,10,11.0
+1,Entrega (delivered),,12,10.0
+1,Entrega (delivered),,15,1.0
+2,Entrega (delivered),,3,21.0
+2,Entrega (delivered),,5,18.0
+2,Entrega (delivered),,8,12.0
+2,Entrega (delivered),,11,9.0
+3,Entrega (delivered),,2,30.0
+3,Entrega (delivered),,13,3.0
+3,Entrega (delivered),,14,8.0
+3,Entrega (delivered),,15,9.0
+4,Entrega (delivered),,9,10.0
+4,Entrega (delivered),,13,4.0
+1,Recarga (y),,1,100000.0
+1,Recarga (y),,3,100000.0
+1,Recarga (y),,4,100000.0
+1,Recarga (y),,6,21.78
+1,Recarga (y),,7,100000.0
+1,Recarga (y),,10,100000.0
+1,Recarga (y),,12,100000.0
+2,Recarga (y),,1,100000.0
+2,Recarga (y),,3,100000.0
+2,Recarga (y),,8,100000.0
+2,Recarga (y),,11,100000.0
+3,Recarga (y),,1,100000.0
+3,Recarga (y),,2,100000.0
+4,Recarga (y),,1,220.0
+1,Combustible (b),,1,344.0
+1,Combustible (b),,3.0,76.69
+1,Combustible (b),,4.0,66.1
+1,Combustible (b),,6.0,21.78
+1,Combustible (b),,7.0,93.27
+1,Combustible (b),,10.0,33.63
+1,Combustible (b),,12.0,29.79
+1,Combustible (b),,13,0.34
+1,Combustible (b),,15,10.17
+2,Combustible (b),,1,302.0
+2,Combustible (b),,3.0,32.13
+2,Combustible (b),,5.0,92.25
+2,Combustible (b),,8.0,6.93
+2,Combustible (b),,11.0,132.06
+3,Combustible (b),,1,260.0
+3,Combustible (b),,2.0,142.6
+3,Combustible (b),,13,0.34
+3,Combustible (b),,14,14.49
+3,Combustible (b),,15,60.88
+4,Combustible (b),,1,220.0
+4,Combustible (b),,9.0,14.42
+4,Combustible (b),,13,0.34
+5,Combustible (b),,1,174.0
+1,Orden (ut),,2.0,1.0
+1,Orden (ut),,3.0,5.0
+1,Orden (ut),,4.0,4.0
+1,Orden (ut),,5.0,1.0
+1,Orden (ut),,6.0,12.0
+1,Orden (ut),,7.0,13.0
+1,Orden (ut),,8.0,1.0
+1,Orden (ut),,9.0,1.0
+1,Orden (ut),,10.0,2.0
+1,Orden (ut),,11.0,1.0
+1,Orden (ut),,12.0,3.0
+1,Orden (ut),,13,14.0
+1,Orden (ut),,14,1.0
+1,Orden (ut),,15,1.0
+2,Orden (ut),,2.0,1.0
+2,Orden (ut),,3.0,12.0
+2,Orden (ut),,4.0,1.0
+2,Orden (ut),,5.0,1.0
+2,Orden (ut),,6.0,1.0
+2,Orden (ut),,7.0,1.0
+2,Orden (ut),,8.0,13.0
+2,Orden (ut),,9.0,1.0
+2,Orden (ut),,10.0,1.0
+2,Orden (ut),,11.0,14.0
+2,Orden (ut),,12.0,1.0
+2,Orden (ut),,13,14.0
+2,Orden (ut),,14,1.0
+2,Orden (ut),,15,1.0
+3,Orden (ut),,2.0,13.0
+3,Orden (ut),,3.0,1.0
+3,Orden (ut),,4.0,1.0
+3,Orden (ut),,5.0,1.0
+3,Orden (ut),,6.0,1.0
+3,Orden (ut),,7.0,1.0
+3,Orden (ut),,8.0,1.0
+3,Orden (ut),,9.0,1.0
+3,Orden (ut),,10.0,1.0
+3,Orden (ut),,11.0,1.0
+3,Orden (ut),,12.0,1.0
+3,Orden (ut),,13,14.0
+3,Orden (ut),,14,12.0
+3,Orden (ut),,15,11.0
+4,Orden (ut),,2.0,1.0
+4,Orden (ut),,3.0,1.0
+4,Orden (ut),,4.0,1.0
+4,Orden (ut),,5.0,1.0
+4,Orden (ut),,6.0,1.0
+4,Orden (ut),,7.0,1.0
+4,Orden (ut),,8.0,14.0
+4,Orden (ut),,9.0,1.0
+4,Orden (ut),,10.0,1.0
+4,Orden (ut),,11.0,1.0
+4,Orden (ut),,12.0,1.0
+4,Orden (ut),,13,14.0
+4,Orden (ut),,14,1.0
+4,Orden (ut),,15,1.0
+5,Orden (ut),,2.0,1.0
+5,Orden (ut),,3.0,1.0
+5,Orden (ut),,4.0,1.0
+5,Orden (ut),,5.0,1.0
+5,Orden (ut),,6.0,1.0
+5,Orden (ut),,7.0,1.0
+5,Orden (ut),,8.0,1.0
+5,Orden (ut),,9.0,1.0
+5,Orden (ut),,10.0,1.0
+5,Orden (ut),,11.0,1.0
+5,Orden (ut),,12.0,1.0
+5,Orden (ut),,13,14.0
+5,Orden (ut),,14,1.0
+5,Orden (ut),,15,1.0
+1,UX (ux),1,15,1.0
+1,UX (ux),3,6,15.0
+1,UX (ux),4,3,4.0
+1,UX (ux),6,7,17.0
+1,UX (ux),10,12,10.0
+1,UX (ux),12,4,22.0
+1,UX (ux),15,10,11.0
+2,UX (ux),1,5,18.0
+2,UX (ux),3,8,12.0
+2,UX (ux),5,3,21.0
+2,UX (ux),8,11,9.0
+3,UX (ux),1,15,9.0
+3,UX (ux),2,13,3.0
+3,UX (ux),14,2,30.0
+3,UX (ux),15,14,8.0
+4,UX (ux),1,9,10.0
+4,UX (ux),9,13,4.0
+1,TOTAL Ruta (x),,,9.0
+1,TOTAL Entrega (delivered),,,80.0
+1,TOTAL Recarga (y),,,600021.78
+1,TOTAL Combustible (b),,,675.78
+1,TOTAL Orden (ut),,,60.0
+1,TOTAL UX (ux),,,80.0
+2,TOTAL Ruta (x),,,5.0
+2,TOTAL Entrega (delivered),,,60.0
+2,TOTAL Recarga (y),,,400000.0
+2,TOTAL Combustible (b),,,565.36
+2,TOTAL Orden (ut),,,63.0
+2,TOTAL UX (ux),,,60.0
+3,TOTAL Ruta (x),,,5.0
+3,TOTAL Entrega (delivered),,,50.0
+3,TOTAL Recarga (y),,,200000.0
+3,TOTAL Combustible (b),,,478.31
+3,TOTAL Orden (ut),,,60.0
+3,TOTAL UX (ux),,,50.0
+4,TOTAL Ruta (x),,,3.0
+4,TOTAL Entrega (delivered),,,14.0
+4,TOTAL Recarga (y),,,220.0
+4,TOTAL Combustible (b),,,234.77
+4,TOTAL Orden (ut),,,40.0
+4,TOTAL UX (ux),,,14.0
+5,TOTAL Combustible (b),,,174.0
+5,TOTAL Orden (ut),,,27.0
